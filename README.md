@@ -2,7 +2,7 @@
 
 Este proyecto contiene una guía práctica y completa sobre el manejo de archivos en Java, desarrollada como parte de un workshop de Git. Incluye ejercicios progresivos que cubren las operaciones más comunes con archivos y directorios.
 
-## 📋 Contenido
+##  Contenido
 
 El proyecto está organizado en 4 ejercicios principales:
 
@@ -42,7 +42,7 @@ El proyecto está organizado en 4 ejercicios principales:
 ### Clase Principal
 La clase `Main.java` integra todos los ejercicios y proporciona un menú interactivo para ejecutarlos de forma individual o en secuencia.
 
-## 🚀 Requisitos
+##  Requisitos
 
 - Java JDK 8 o superior
 - Maven 3.6 o superior (para compilación)
@@ -81,7 +81,7 @@ java -cp target/classes com.mycompany.tarea.Ejercicio3CopiaArchivos
 java -cp target/classes com.mycompany.tarea.Ejercicio4ManejoDirectorios
 ```
 
-## 📁 Estructura del Proyecto
+##  Estructura del Proyecto
 
 ```
 tarea/
@@ -120,7 +120,7 @@ tarea/
 - Verificación de existencia antes de operaciones
 - Separación de responsabilidades en clases diferentes
 
-## 📝 Historial de Commits
+##  Historial de Commits
 
 Este proyecto fue desarrollado con commits progresivos, cada ejercicio representa un commit separado:
 
@@ -132,15 +132,15 @@ Este proyecto fue desarrollado con commits progresivos, cada ejercicio represent
 6. `Clase principal: Integración de todos los ejercicios con menú interactivo`
 7. `Documentación: Agregado README con guía completa del proyecto`
 
-## 👨‍💻 Autor
+##  Autor
 
 Proyecto desarrollado como parte del Workshop Básico de Git.
 
-## 📄 Licencia
+##  Licencia
 
 Este proyecto es de uso educativo y puede ser utilizado libremente para fines de aprendizaje.
 
-## 🔗 Recursos Adicionales
+##  Recursos Adicionales
 
 - [Documentación oficial de Java - I/O](https://docs.oracle.com/javase/tutorial/essential/io/)
 - [Java NIO Tutorial](https://docs.oracle.com/javase/tutorial/essential/io/fileio.html)
@@ -149,4 +149,5 @@ Este proyecto es de uso educativo y puede ser utilizado libremente para fines de
 ---
 
 **Nota:** Este proyecto fue creado siguiendo las mejores prácticas de Git, con commits descriptivos y una estructura clara que facilita el aprendizaje y la colaboración.
+
 
